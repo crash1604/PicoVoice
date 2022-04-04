@@ -157,10 +157,3 @@ def wrapper(isbn):
         return x
 
 # Please Use your test main function after this
-
-print(wrapper("0000000001"))
-print(wrapper("0000000011"))
-print(wrapper("0000000101"))
-print(wrapper("0000000111"))
-print("\n\n\n\n\n\n")
-print(cache)
